@@ -1,2 +1,2 @@
-# EstudosJava
-Compartilhando jornada de estudo java
+# Estudos na linguagem Java
+Compartilhando jornada de estudo na linguagem java

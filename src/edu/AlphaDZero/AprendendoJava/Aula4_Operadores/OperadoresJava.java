@@ -2,7 +2,7 @@ package edu.AlphaDZero.AprendendoJava.Aula4_Operadores;
 
 public class OperadoresJava {
     public static void main(String[] args) {
-        exemploBoolean();
+        exemploTernario();
     }
 
     public static void exemploConstante(){
@@ -39,5 +39,12 @@ public class OperadoresJava {
         System.out.println(True);
     }
 
-    
+    public static void exemploTernario(){
+        System.out.println("Exemplo de operador ternario...");
+        int a,b;
+        a = 5;
+        b = 6;
+        String resultado = a==b ? "verdadeiro" : "falso";
+        System.out.println(resultado);
+    }
 }

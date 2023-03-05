@@ -2,7 +2,7 @@ package edu.AlphaDZero.AprendendoJava.Aula4_Operadores;
 
 public class OperadoresJava {
     public static void main(String[] args) {
-        exemploTernario();
+        exemploOpRelacionais();
     }
 
     public static void exemploConstante(){
@@ -47,4 +47,19 @@ public class OperadoresJava {
         String resultado = a==b ? "verdadeiro" : "falso";
         System.out.println(resultado);
     }
+
+    public static void exemploOpRelacionais(){
+        String msg = """
+            == igualdade
+            != diferença
+            >  maior que
+            >= maior ou igual a...
+            <  menor que
+            <= menor ou igual a...
+            && operador logico E
+            || operador logico OU
+        """;
+        System.out.println(msg);
+    }
+
 }

@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula5_Metodos;
+package edu.AlphaDZero.AprendendoJava.Aula05_Metodos;
 
 public class Usuario {
     public static void main(String[] args) {

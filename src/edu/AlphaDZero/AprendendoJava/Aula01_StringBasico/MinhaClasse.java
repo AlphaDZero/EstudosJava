@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula1_StringBasico;
+package edu.AlphaDZero.AprendendoJava.Aula01_StringBasico;
 
 public class MinhaClasse {
 

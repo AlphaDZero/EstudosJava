@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula7_Terminal;
+package edu.AlphaDZero.AprendendoJava.Aula07_Terminal;
 
 public class TesteTerminal {
     public static void main(String[] args) {

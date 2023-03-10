@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula6_Documentar;
+package edu.AlphaDZero.AprendendoJava.Aula06_Documentar;
 
 public class TesteCalculadora {
     public static void main(String[] args) {

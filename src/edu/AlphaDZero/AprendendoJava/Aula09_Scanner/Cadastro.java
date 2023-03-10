@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula9_Scanner;
+package edu.AlphaDZero.AprendendoJava.Aula09_Scanner;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula4_Operadores;
+package edu.AlphaDZero.AprendendoJava.Aula04_Operadores;
 
 public class OperadoresJava {
     public static void main(String[] args) {

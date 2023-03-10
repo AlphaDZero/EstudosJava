@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula02_CondBasico;
+package edu.AlphaDZero.AprendendoJava.Ex02_CondBasico;
 
 public class BoletimEstudantil {
     

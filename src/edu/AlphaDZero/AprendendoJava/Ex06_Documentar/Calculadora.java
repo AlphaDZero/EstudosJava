@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula06_Documentar;
+package edu.AlphaDZero.AprendendoJava.Ex06_Documentar;
 /**
  * <h1>Calculadora</h1>
  * Essa classe é uma calculadora simples

@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula11_Switch;
+package edu.AlphaDZero.AprendendoJava.Ex11_Switch;
 
 import java.util.Scanner;
 

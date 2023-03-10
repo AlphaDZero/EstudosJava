@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula08_Argumentos;
+package edu.AlphaDZero.AprendendoJava.Ex08_Argumentos;
 
 
 public class ArgumentoMain {

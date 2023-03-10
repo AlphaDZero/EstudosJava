@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula05_Metodos;
+package edu.AlphaDZero.AprendendoJava.Ex05_Metodos;
 
 public class SmartTv {
     boolean ligada = false;

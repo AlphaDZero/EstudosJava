@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.Aula10_If;
+package edu.AlphaDZero.AprendendoJava.Ex10_If;
 
 import java.util.Scanner;
 

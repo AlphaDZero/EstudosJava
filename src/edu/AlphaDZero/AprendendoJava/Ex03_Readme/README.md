@@ -1,4 +1,4 @@
-# Welcome... 👨‍🎓🎮🖥️💻📱
+# Welcome...🎮🖥️💻📱
 ![AlphaDZero GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaDZero&show_icons=true&theme=radical)
 
 ![AlphaDZero Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDZero&theme=radical)

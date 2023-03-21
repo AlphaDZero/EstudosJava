@@ -1,4 +1,4 @@
-package edu.AlphaDZero.AprendendoJava.EstruturaDeDados.Ex04_Pilhas;
+package edu.AlphaDZero.AprendendoJava.EstruturaDeDados.Ex04_Pilhas.No;
 
 public class Pilha {
     private No refEntradaNo = null;

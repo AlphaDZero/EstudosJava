@@ -1,0 +1,7 @@
+Questão 1
+Criar uma aplicação que resolva as seguintes situações:
+
+  a) Calcule as 4 operações básicas: soma, multiplicação, subtração e divisão.
+  b) A partir da hora do dia, informe a mensagem adequada: "Bom dia", "Boa tarde" e "Boa noite".
+  c) Calcule o valor final de um empréstimo, a partir do valor solicitado. Taxas e parcelas influenciam. Defina arbitrariamente as faixas que influenciam no valor
+

@@ -1,3 +1,0 @@
-emojipedia     ->   https://emojipedia.org/pt/
-Awesome badges ->   https://dev.to/envoy_/150-badges-for-github-pnk
-Readme stats   ->   https://github.com/anuraghazra/github-readme-stats
